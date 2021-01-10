@@ -7,6 +7,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ♡𝔹𝕝𝕦𝕖♡#1270
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-My new bot Commando
 
 [![Discord Bots](https://top.gg/api/widget/783401468921249884.svg)](https://top.gg/bot/783401468921249884)
