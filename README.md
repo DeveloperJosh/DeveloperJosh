@@ -1,4 +1,4 @@
-Hi there 👋
+<h>Hi there 👋</h>
 
 Here are some ideas to get you started:
 
@@ -6,6 +6,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 - 📫 How to reach me: ♡𝔹𝕝𝕦𝕖♡#1270
 - ⚡ Fun fact: I like making bots
+
+<h2>My bots</h2>
 
 [![Discord Bots](https://top.gg/api/widget/783401468921249884.svg)](https://top.gg/bot/783401468921249884)
 [![Discord Bots](https://top.gg/api/widget/816433892578820117.svg)](https://top.gg/bot/816433892578820117)
