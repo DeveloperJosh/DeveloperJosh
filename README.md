@@ -13,6 +13,7 @@ export const Blue = {
     },
     backend: {
       js: ["Discord.js", "Node.js"],
+      py: ["Discord.py"]
     },
     databases: ["MongoDB", "PostgreSQL"]
   }
