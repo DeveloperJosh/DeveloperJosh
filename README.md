@@ -7,6 +7,25 @@
 - 📫 How to reach me: ♡𝔹𝕝𝕦𝕖♡#1270
 - ⚡ Fun fact: I like making bots</p>
 
+```js
+
+export const Blue = {
+  pronouns: ["He", "Him"],
+  working_on: "",
+  languages: ["Node.js", "Python", "Typescript"],
+  technologies: {
+    frontend: {
+      libraries: ["react", "ejs"],
+      css: ["bootstrap"]
+    },
+    backend: {
+      js: ["Discord.js", "Node.js"],
+    },
+    databases: ["MongoDB", "PostgreSQL"]
+  }
+}
+```
+
 <h2>My bots</h2>
 
 [![Discord Bots](https://top.gg/api/widget/783401468921249884.svg)](https://top.gg/bot/783401468921249884)
