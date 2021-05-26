@@ -1,10 +1,17 @@
 <h2>Hi there 👋</h2>
 
+<p>Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Mr.commando
+- 💬 Ask me about Anything
+- 📫 How to reach me: ♡𝔹𝕝𝕦𝕖♡#1270
+- ⚡ Fun fact: I like making bots</p>
+
 ```js
 
 export const Blue = {
   pronouns: ["He", "Him"],
-  working_on: "Moderextor",
+  working_on: "",
   languages: ["Node.js", "Python", "Typescript"],
   technologies: {
     frontend: {
@@ -12,8 +19,7 @@ export const Blue = {
       css: ["bootstrap"]
     },
     backend: {
-      js: ["Discord.js", "Node.js"],
-      py: ["Discord.py"]
+      js: ["Discord.js", "Node.js", "Express.js"],
     },
     databases: ["MongoDB", "PostgreSQL"]
   }
