@@ -1,17 +1,10 @@
 <h2>Hi there 👋</h2>
 
-<p>Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Mr.commando
-- 💬 Ask me about Anything
-- 📫 How to reach me: ♡𝔹𝕝𝕦𝕖♡#1270
-- ⚡ Fun fact: I like making bots</p>
-
 ```js
 
 export const Blue = {
   pronouns: ["He", "Him"],
-  working_on: "",
+  working_on: "Moderextor",
   languages: ["Node.js", "Python", "Typescript"],
   technologies: {
     frontend: {
