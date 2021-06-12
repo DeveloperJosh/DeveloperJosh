@@ -5,7 +5,7 @@
 export const Blue = {
   pronouns: ["He", "Him"],
   working_on: "Moderextor",
-  languages: ["Node.js", "Python", "Typescript"],
+  languages: ["Node.js", "Python", "Typescript", "HTML/CSS"],
   technologies: {
     frontend: {
       libraries: ["react", "ejs"],
