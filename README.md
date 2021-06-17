@@ -22,7 +22,6 @@ export const Blue = {
 
 <h2>My bots</h2>
 
-[![Discord Bots](https://top.gg/api/widget/783401468921249884.svg)](https://top.gg/bot/783401468921249884)
 [![Discord Bots](https://top.gg/api/widget/816433892578820117.svg)](https://top.gg/bot/816433892578820117)
 
 <h2>My stats</h2>
