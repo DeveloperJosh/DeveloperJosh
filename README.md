@@ -1,5 +1,8 @@
 <h2>Hi there 👋</h2>
 
+   <a href="https://github.com/DeveloperJosh">
+    <img src="https://komarev.com/ghpvc/?username=DeveloperJosh&style=flat-square&label=Profile%20Views&logo=github" alt="Profile Visits"/>
+
 ```js
 
 export const Blue = {
