@@ -1,6 +1,7 @@
 <h2>Hi there 👋</h2>
 
-    <img src="https://komarev.com/ghpvc/?username=DeveloperJosh&style=flat-square&label=Profile%20Views&logo=github" alt="Profile Visits"/>
+    <a>
+    <img src="https://komarev.com/ghpvc/?username=DeveloperJosh&style=flat-square&label=Profile%20Views&logo=github" alt="Profile Visits"/></a>
 
 ```js
 
