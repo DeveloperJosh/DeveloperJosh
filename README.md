@@ -1,13 +1,37 @@
 <h2>Hi there 👋</h2>
 
 ```js
-
-embed = new Discord.MessageEmbed()
-   .setTitle("Info ABout Blue")
-   .addField("Who am i?", "My name is Blue, And I'm a bot dev/web dev")
-  
-message.channel.send(embed)
+const thai = {
+  pronouns: "He" | "Him",
+  code: [Javascript, Typescript, HTML/CSS, Python],
+  tools: [React, Node],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
 ```
+
+**About Me!**
+
+- 👨🏽‍💻 I’m currently working on a new bot called Anime-bot
+- 🌱 I'm currently learning Python
+- 💬 Ask me about anything
+- 📫 Email me at [blue@gmail.com](mailto:Joshwells409@gmail.com).
+
+
+
+**Languages and Tools:**  
+
+
+<code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
+<code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v2.png"></code> javascript
+
+<code><img height="20" src=""https://img.icons8.com/color/48/000000/mongodb.png"></code> Mongodb
+<code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <h2>My bots</h2>
 
