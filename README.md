@@ -28,7 +28,7 @@ export const Blue = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJosh&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperJosh&theme=radical&layout=compact">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJosh&theme=radical&hide_border=true">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeveloperJosh&theme=radical&layout=compact">
 
 <h2>Languages i know</h2>
 
