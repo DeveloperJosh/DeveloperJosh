@@ -2,22 +2,11 @@
 
 ```js
 
-export const Blue = {
-  pronouns: ["He", "Him"],
-  working_on: "Moderextor",
-  languages: ["Node.js", "Python", "Typescript", "HTML/CSS"],
-  technologies: {
-    frontend: {
-      libraries: ["react", "ejs"],
-      css: ["bootstrap"]
-    },
-    backend: {
-      js: ["Discord.js", "Node.js", "Express.js"],
-      py: ["Discord.py"]
-    },
-    databases: ["MongoDB", "PostgreSQL"]
-  }
-}
+embed = new Discord.MessageEmbed()
+   .setTitle("Info ABout Blue")
+   .addField("Who am i?", "My name is Blue, And I'm a bot dev/web dev")
+  
+message.channel.send(embed)
 ```
 
 <h2>My bots</h2>
