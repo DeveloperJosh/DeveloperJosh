@@ -1,20 +1,5 @@
 <h2>Hi there 👋</h2>
 
-```js
-const thai = {
-  pronouns: "He" | "Him",
-  code: [Javascript, Typescript, HTML/CSS, Python],
-  tools: [React, Node],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
-```
-
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working on a new bot called Anime-bot
@@ -30,7 +15,7 @@ const thai = {
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v2.png"></code> javascript
 
-<code><img height="20" src=""https://img.icons8.com/color/48/000000/mongodb.png"></code> Mongodb
+<code><img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png"></code> Mongodb
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <h2>My bots</h2>
