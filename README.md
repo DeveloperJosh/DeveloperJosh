@@ -18,6 +18,10 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png"></code> Mongodb
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
+<h2>My discord</h2>
+
+[![Discord](https://discord.c99.nl/widget/theme-2/321750582912221184.png)](https://discord.gg/nirlep)
+
 <h2>My bots</h2>
 
 [![Discord Bots](https://top.gg/api/widget/816433892578820117.svg)](https://top.gg/bot/816433892578820117)
