@@ -15,7 +15,7 @@
 <code><img height="20" src="https://img.icons8.com/nolan/96/python.png"></code> Python
 <code><img height="20" src="https://img.icons8.com/color/48/000000/javascript--v2.png"></code> javascript
 
-<code><img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png"></code> Mongodb
+<code><img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png"></code> MongoDB
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
 <h2>My discord</h2>
