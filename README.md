@@ -5,7 +5,6 @@
 - 👨🏽‍💻 I’m currently working on a new bot called Anime-bot
 - 🌱 I'm currently learning Python
 - 💬 Ask me about anything
-- 📫 Email me at [blue@gmail.com](mailto:Joshwells409@gmail.com).
 
 
 
