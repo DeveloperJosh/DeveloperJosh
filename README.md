@@ -2,7 +2,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working on a new bot called Anime-bot
+- 👨🏽‍💻 I’m currently working on a project called [Fish-Mail](https://github.com/DeveloperJosh/Fish-Mail)
 - 🌱 I'm currently learning Python
 - 💬 Ask me about anything
 
