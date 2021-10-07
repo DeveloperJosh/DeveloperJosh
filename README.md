@@ -2,7 +2,7 @@
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working on a project called [Fish-Mail](https://github.com/DeveloperJosh/Fish-Mail)
+- 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/MailHook)
 - 🌱 I'm currently learning Python
 - 💬 Ask me about anything
 
