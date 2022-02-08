@@ -17,10 +17,6 @@
 <code><img height="20" src="https://img.icons8.com/color/48/000000/mongodb.png"></code> MongoDB
 <code><img height="20" src="https://img.icons8.com/nolan/96/git.png"></code> GIT
 
-<h2>My bots</h2>
-
-[![Discord Bots](https://top.gg/api/widget/816433892578820117.svg)](https://top.gg/bot/816433892578820117)
-
 <h2>My stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=DeveloperJosh&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
