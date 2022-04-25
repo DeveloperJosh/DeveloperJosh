@@ -1,5 +1,5 @@
 <h2>Hi there 👋</h2>
-
+![Profile Views](https://komarev.com/ghpvc/?username=DeveloperJosh&color=1F6FEB)
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/MailHook)
