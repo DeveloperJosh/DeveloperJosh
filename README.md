@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
-![Profile Views](https://komarev.com/ghpvc/?username=DeveloperJosh&color=1F6FEB)
-**About Me!**
 
+**About Me!**
+![Profile Views](https://komarev.com/ghpvc/?username=DeveloperJosh&color=1F6FEB)
 - 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/MailHook)
 - 🌱 I'm currently learning Python
 - 💬 Ask me about anything
