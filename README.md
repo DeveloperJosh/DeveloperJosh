@@ -2,8 +2,8 @@
 
 **About Me!**
 ![Profile Views](https://komarev.com/ghpvc/?username=DeveloperJosh&color=1F6FEB)
-- 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/MailHook)
-- 🌱 I'm currently learning Python
+- 👨🏽‍💻 I’m currently working on a project called [SynTech Site](http://syntech.lol)
+- 🌱 I'm currently learning C#
 - 💬 Ask me about anything
 
 
