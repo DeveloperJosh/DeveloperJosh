@@ -2,7 +2,7 @@
 
 **About Me!**
 - 👨🏽‍💻 I’m currently working on a project called [SynTech Site](http://syntech.lol)
-- 🌱 I'm currently learning C#
+- 🌱 I'm currently learning C#, Go
 - 💬 Ask me about anything
 
 
