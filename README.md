@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 
 **About Me!**
-- 👨🏽‍💻 I’m currently working on a project called [Simple-Chat](http://simple-chat.xyz)
+- 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/ModMail)
 - 🌱 I'm currently learning socket.io on all supported langs
 - 💬 Ask me about anything
 
