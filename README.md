@@ -1,5 +1,7 @@
 <h2>Hi there 👋</h2>
 
+**NOT READY CODING ANYMORE**
+
 **About Me!**
 - 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/ModMail)
 - 🌱 I'm currently learning Nothing
