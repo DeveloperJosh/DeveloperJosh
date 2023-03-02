@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
-**NOT READY CODING ANYMORE**
+**NOT REALLY CODING ANYMORE**
 
 **About Me!**
 - 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/ModMail)
