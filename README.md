@@ -3,7 +3,7 @@
 **NOT REALLY CODING ANYMORE**
 
 **About Me!**
-- 👨🏽‍💻 I’m currently working on a project called [MailHook](https://github.com/DeveloperJosh/ModMail)
+- 👨🏽‍💻 I’m currently working on a project called Nothing
 - 🌱 I'm currently learning Nothing
 - 💬 Ask me about anything
 
