@@ -1,7 +1,5 @@
 <h2>Hi there 👋</h2>
 
-**NOT REALLY CODING ANYMORE**
-
 **About Me!**
 - 👨🏽‍💻 I’m currently working on a project called Nothing
 - 🌱 I'm currently learning Nothing
