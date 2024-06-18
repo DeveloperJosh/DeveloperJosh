@@ -1,7 +1,7 @@
 <h2>Hi there 👋</h2>
 
 **About Me!**
-- 👨🏽‍💻 I’m currently working on a project called Nothing
+- 👨🏽‍💻 I’m currently working on a project called NekoNode
 - 🌱 I'm currently learning Nothing
 - 💬 Ask me about anything
 
