@@ -1,5 +1,7 @@
 <h2>Hi there 👋</h2>
 
+ Hey so I'm gone to college if youi need help with my website or anything on my page please [join](https://discord.gg/88ArBFRcY8) and ask for help, I will probably reply within a day or one of my friends will
+
 **About Me!**
 - 👨🏽‍💻 I’m currently working on a project called NekoNode
 - 🌱 I'm currently learning Nothing
