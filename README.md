@@ -1,6 +1,6 @@
 <h2>Hi there 👋</h2>
 
- Hey so I'm gone to college if you need help with my website or anything on my page please [join](https://discord.gg/88ArBFRcY8) and ask for help, I will probably reply within a day or one of my friends will
+I've returned from college and My focus has shifted, and as such, I plan to archive my older projects and dedicate my efforts entirely to something new
 
 **About Me!**
 - 👨🏽‍💻 I’m currently working on a project called NekoNode
