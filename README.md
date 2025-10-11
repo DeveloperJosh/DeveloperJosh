@@ -3,7 +3,7 @@
 I've returned from college and My focus has shifted, and as such, I plan to archive my older projects and dedicate my efforts entirely to something new
 
 **About Me!**
-- 👨🏽‍💻 I’m currently working on a project called NekoNode
+- 👨🏽‍💻 I’m currently working on a project called Nothing
 - 🌱 I'm currently learning Nothing
 - 💬 Ask me about anything
 
